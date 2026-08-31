@@ -17,21 +17,6 @@
 
 ---
 
-### `root@amrita:~$ cat /etc/skills.conf`
-
-```text
-[core]
-languages = ["python", "java", "c++", "javascript", "scala"]
-ai_ml     = ["scikit-learn", "tensorflow", "lightgbm", "xgboost", "pandas", "shap"]
-
-[infrastructure]
-big_data  = ["hadoop hdfs", "apache spark", "kafka"]
-compute   = ["cuda", "openmp", "mpi"]
-tooling   = ["fastapi", "docker", "git", "streamlit", "qiskit"]
-```
-
----
-
 ## Experience & Internships
 
 **AI & Data Science Intern @ XYlofy AI** 
