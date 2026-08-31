@@ -3,7 +3,7 @@
 
   <br><br>
   
-  `whoami` • `expertise` • `experience` • `research` • `education` • `telemetry`
+  `whoami` • `expertise` • `philosophy` • `experience` • `research` • `education` • `telemetry`
 </div>
 
 <br><br>
@@ -26,14 +26,25 @@ I build the robust infrastructure that scales them: real-time streaming architec
 
 ## Technical Expertise
 
-I specialize in building data-intensive applications and training scalable models. 
+I specialize in building data-intensive applications and training scalable models. I am comfortable working across the entire stack, from writing custom CUDA kernels to deploying microservices in Docker.
 
 | Category | Technologies |
 | :--- | :--- |
 | **Languages** | Python, Java, C++, JavaScript, Scala |
-| **Machine Learning** | Scikit-learn, TensorFlow, XGBoost, LightGBM, Pandas, SHAP |
+| **Machine Learning** | Scikit-learn, TensorFlow, XGBoost, LightGBM, Pandas, NumPy, SHAP |
 | **Big Data & Compute** | Hadoop HDFS, Apache Spark, Kafka, CUDA, OpenMP, MPI |
-| **Infrastructure** | FastAPI, Docker, Git, Streamlit, Qiskit |
+| **Infrastructure** | FastAPI, Docker, Git, Streamlit, Qiskit, Linux |
+
+<br>
+<hr>
+<br>
+
+## Core Engineering Philosophy
+
+- **Data Over Intuition:** Every architectural decision should be backed by profiling, benchmarks, and data.
+- **Scalability by Default:** Designing systems that can handle 10x the expected load without complete rewrites.
+- **Explainability Matters:** A black-box AI is a liability. I heavily utilize SHAP and feature importance techniques to ensure models are transparent and interpretable.
+- **Hardware-Aware Computing:** Writing software that actually understands the silicon it runs on, optimizing memory hierarchies and parallel execution patterns.
 
 <br>
 <hr>
@@ -46,6 +57,8 @@ I specialize in building data-intensive applications and training scalable model
 > Processed 590K+ transactions with 400+ features, handling significant missing data and severe class imbalance using SMOTE. 
 > Optimized classification thresholds across LightGBM, XGBoost, and Isolation Forest models. 
 > Applied SHAP for model interpretability and deployed an interactive Streamlit dashboard for real-time fraud risk analysis.
+> 
+> *Stack: Python, LightGBM, XGBoost, Streamlit, Pandas, Scikit-learn*
 
 <br>
 <hr>
@@ -70,7 +83,8 @@ My work spans distributed data processing and applied AI — the common thread i
 
 **Amrita Vishwa Vidyapeetham**  
 B.Tech in Artificial Intelligence & Data Science (2024 — 2028)  
-- **Relevant Coursework:** Data Structures & Algorithms, Database Management Systems, Operating Systems, Computer Networks, Machine Learning, Deep Learning.
+- **Relevant Coursework:** Data Structures & Algorithms, Database Management Systems, Operating Systems, Computer Networks, Machine Learning, Deep Learning, High-Performance Computing.
+- **Focus:** Building a strong foundation in both algorithmic complexity and low-level system design.
 
 <br><br>
 
