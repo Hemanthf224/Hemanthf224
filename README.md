@@ -30,7 +30,6 @@ My work spans distributed data processing and applied AI — the common thread i
 
 | Work | Tech Stack |
 | :--- | :--- |
-| **Real-Time Fraud Detection System** — End-to-end pipeline processing 590K+ transactions with explainable AI (SHAP) and SMOTE for severe class imbalance. Optimized LightGBM and XGBoost thresholds. | Python, LightGBM, XGBoost, Streamlit |
 | **AI Cyberattack Detection (SDN-OSHLD)** — Real-time network intrusion detection achieving 99.2% accuracy on the CICIDS2017 benchmark, served via a sub-100ms FastAPI backend. | Python, Scikit-learn, FastAPI, Docker |
 | **Big Data Taxi Demand & ETA Prediction** — Distributed pipeline processing 17GB+ (11M+ records) with integrated Kafka streaming and weather data for real-time hourly demand prediction. | Hadoop, Apache Spark, Scala, Kafka |
 | **Adaptive GPU Graph Engine** — High-performance graph processing (BFS, PageRank) that dynamically schedules execution across CPU and GPU hardware based on graph topology. | C++, CUDA, OpenMP, MPI |
