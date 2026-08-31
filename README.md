@@ -86,11 +86,4 @@ B.Tech in Artificial Intelligence & Data Science (2024 — 2028)
 - **Relevant Coursework:** Data Structures & Algorithms, Database Management Systems, Operating Systems, Computer Networks, Machine Learning, Deep Learning, High-Performance Computing.
 - **Focus:** Building a strong foundation in both algorithmic complexity and low-level system design.
 
-<br><br>
 
-### `root@amrita:~$ htop -u hemanth`
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hemanthf224&show_icons=false&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hemanthf224&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="langs" height="150"/>
-</div>
