@@ -3,7 +3,7 @@
 
   <br><br>
   
-  `whoami` • `experience` • `research` • `telemetry`
+  `whoami` • `expertise` • `experience` • `research` • `education` • `telemetry`
 </div>
 
 <br><br>
@@ -18,6 +18,22 @@ I build the robust infrastructure that scales them: real-time streaming architec
 
 **Currently:** Architecting an adaptive GPU-accelerated graph processing engine in C++ and CUDA.  
 **Focus:** Machine Learning, Distributed Systems, Big Data Infrastructure, High-Performance Computing.  
+**Exploring:** Rust for systems programming and advanced graph neural networks.
+
+<br>
+<hr>
+<br>
+
+## Technical Expertise
+
+I specialize in building data-intensive applications and training scalable models. 
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Python, Java, C++, JavaScript, Scala |
+| **Machine Learning** | Scikit-learn, TensorFlow, XGBoost, LightGBM, Pandas, SHAP |
+| **Big Data & Compute** | Hadoop HDFS, Apache Spark, Kafka, CUDA, OpenMP, MPI |
+| **Infrastructure** | FastAPI, Docker, Git, Streamlit, Qiskit |
 
 <br>
 <hr>
@@ -41,10 +57,20 @@ My work spans distributed data processing and applied AI — the common thread i
 
 | Work | Tech Stack |
 | :--- | :--- |
-| **AI Cyberattack Detection (SDN-OSHLD)**<br>Real-time network intrusion detection achieving 99.2% accuracy on the CICIDS2017 benchmark. Served via a sub-100ms FastAPI backend. | Python, Scikit-learn, FastAPI, Docker |
-| **Big Data Taxi Demand & ETA Prediction**<br>Distributed pipeline processing 17GB+ (11M+ records) with integrated Kafka streaming and weather data for real-time hourly demand prediction. | Hadoop, Apache Spark, Scala, Kafka |
-| **Adaptive GPU Graph Engine**<br>High-performance graph processing (BFS, PageRank) that dynamically schedules execution across CPU and GPU hardware based on graph topology. | C++, CUDA, OpenMP, MPI |
-| **AQTrust: Quantum-Cloud Verification**<br>Quantum-cloud verification framework using hidden trap circuits to ensure computation integrity. Simulated 20,000 sessions per policy. | Python, Qiskit, Qiskit Aer |
+| **AI Cyberattack Detection (SDN-OSHLD)**<br>Real-time network intrusion detection achieving 99.2% accuracy on the CICIDS2017 benchmark. Built complex feature engineering pipelines and served inference via a sub-100ms FastAPI backend. | Python, Scikit-learn, FastAPI, Docker |
+| **Big Data Taxi Demand & ETA Prediction**<br>Distributed pipeline processing 17GB+ (11M+ records) of geospatial data. Integrated Kafka streaming and external weather APIs for real-time hourly demand and fare prediction. | Hadoop, Apache Spark, Scala, Kafka |
+| **Adaptive GPU Graph Engine**<br>High-performance graph processing (BFS, PageRank) that dynamically schedules execution across CPU and GPU hardware based on graph topology to eliminate memory bottlenecks. | C++, CUDA, OpenMP, MPI |
+| **AQTrust: Quantum-Cloud Verification**<br>Quantum-cloud verification framework using hidden trap circuits to ensure computation integrity. Simulated 20,000 sessions per policy and optimized execution profiling. | Python, Qiskit, Qiskit Aer |
+
+<br>
+<hr>
+<br>
+
+## Education
+
+**Amrita Vishwa Vidyapeetham**  
+B.Tech in Artificial Intelligence & Data Science (2024 — 2028)  
+- **Relevant Coursework:** Data Structures & Algorithms, Database Management Systems, Operating Systems, Computer Networks, Machine Learning, Deep Learning.
 
 <br><br>
 
