@@ -2,13 +2,6 @@
   <img src="banner.svg" alt="banner" />
 
   <br><br>
-
-  <img src="https://img.shields.io/badge/PORTFOLIO-00E5FF?style=for-the-badge&logoColor=black" alt="PORTFOLIO" />
-  <img src="https://img.shields.io/badge/LINKEDIN-FF007F?style=for-the-badge&logoColor=white" alt="LINKEDIN" />
-  <img src="https://img.shields.io/badge/GITHUB-8A2BE2?style=for-the-badge&logoColor=white" alt="GITHUB" />
-  <img src="https://img.shields.io/badge/RESUME-FFD700?style=for-the-badge&logoColor=black" alt="RESUME" />
-
-  <br><br>
   
   whoami • experience • research • telemetry
 </div>
