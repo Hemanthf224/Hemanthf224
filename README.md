@@ -3,14 +3,14 @@
 
   <br><br>
 
-  [![PORTFOLIO](https://img.shields.io/badge/PORTFOLIO-00E5FF?style=for-the-badge&logoColor=black)](#)
-  [![LINKEDIN](https://img.shields.io/badge/LINKEDIN-FF007F?style=for-the-badge&logoColor=white)](#)
-  [![GITHUB](https://img.shields.io/badge/GITHUB-8A2BE2?style=for-the-badge&logoColor=white)](#)
-  [![RESUME](https://img.shields.io/badge/RESUME-FFD700?style=for-the-badge&logoColor=black)](#)
+  <img src="https://img.shields.io/badge/PORTFOLIO-00E5FF?style=for-the-badge&logoColor=black" alt="PORTFOLIO" />
+  <img src="https://img.shields.io/badge/LINKEDIN-FF007F?style=for-the-badge&logoColor=white" alt="LINKEDIN" />
+  <img src="https://img.shields.io/badge/GITHUB-8A2BE2?style=for-the-badge&logoColor=white" alt="GITHUB" />
+  <img src="https://img.shields.io/badge/RESUME-FFD700?style=for-the-badge&logoColor=black" alt="RESUME" />
 
   <br><br>
   
-  [whoami](#) • [experience](#) • [research](#) • [telemetry](#)
+  whoami • experience • research • telemetry
 </div>
 
 <br>
@@ -21,7 +21,6 @@
 
 **Currently:** Architecting an adaptive GPU-accelerated graph processing engine in C++ and CUDA.
 **Focus:** Machine Learning, Distributed Systems, Big Data Infrastructure, High-Performance Computing.
-**Reach me:** [LinkedIn](https://linkedin.com/in/hemanthreddy) · [GitHub](https://github.com/Hemanthf224)
 
 ---
 
