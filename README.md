@@ -19,7 +19,7 @@
   <table>
     <tr>
       <td width="30%" align="center">
-        <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="200" alt="Animated Developer" />
+        <img src="./assets/builder.png" width="300" alt="Small 3D fellow building blocks" />
       </td>
       <td width="70%">
         <b>AI & Data Engineer who builds end-to-end systems.</b><br><br>
