@@ -3,7 +3,7 @@
 
   <br><br>
   
-  `whoami` • `expertise` • `philosophy` • `experience` • `research` • `education` • `telemetry`
+  `whoami` • `expertise` • `philosophy` • `experience` • `research` • `education` • `connect`
 </div>
 
 <br><br>
@@ -41,10 +41,13 @@ I specialize in building data-intensive applications and training scalable model
 
 ## Core Engineering Philosophy
 
-- **Data Over Intuition:** Every architectural decision should be backed by profiling, benchmarks, and data.
-- **Scalability by Default:** Designing systems that can handle 10x the expected load without complete rewrites.
-- **Explainability Matters:** A black-box AI is a liability. I heavily utilize SHAP and feature importance techniques to ensure models are transparent and interpretable.
-- **Hardware-Aware Computing:** Writing software that actually understands the silicon it runs on, optimizing memory hierarchies and parallel execution patterns.
+> **Data Over Intuition:** Every architectural decision should be backed by profiling, benchmarks, and data.
+>
+> **Scalability by Default:** Designing systems that can handle 10x the expected load without complete rewrites.
+> 
+> **Explainability Matters:** A black-box AI is a liability. I heavily utilize SHAP and feature importance techniques to ensure models are transparent and interpretable.
+> 
+> **Hardware-Aware Computing:** Writing software that actually understands the silicon it runs on, optimizing memory hierarchies and parallel execution patterns.
 
 <br>
 <hr>
@@ -86,4 +89,14 @@ B.Tech in Artificial Intelligence & Data Science (2024 — 2028)
 - **Relevant Coursework:** Data Structures & Algorithms, Database Management Systems, Operating Systems, Computer Networks, Machine Learning, Deep Learning, High-Performance Computing.
 - **Focus:** Building a strong foundation in both algorithmic complexity and low-level system design.
 
+<br>
+<hr>
+<br>
 
+## Let's Connect
+
+I am always open to discussing new projects, artificial intelligence research, or full-stack engineering opportunities.
+
+[**LinkedIn**](https://linkedin.com/in/hemanthreddy)  •  [**Email Me**](mailto:your.email@example.com)  •  [**Portfolio**](https://hemanthf224.github.io/hemanth-portfolio/)
+
+<br>
