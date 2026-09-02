@@ -45,17 +45,11 @@
 
 <div align="center">
   <!-- 3D Isometric Contribution Graph -->
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Hemanth's 3D GitHub Contributions Graph" />
+  <img src="https://raw.githubusercontent.com/Hemanthf224/Hemanthf224/output/profile-night-rainbow.svg" alt="Hemanth's 3D GitHub Contributions Graph" />
   
   <br><br>
 
-  <!-- GitHub Stats & Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Hemanthf224&show_icons=true&theme=transparent&hide_border=true&title_color=0B0B0C&icon_color=0B0B0C&text_color=333333" alt="Hemanth's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hemanthf224&layout=compact&theme=transparent&hide_border=true&title_color=0B0B0C&text_color=333333" alt="Hemanth's Top Languages" />
-  
-  <br>
-  
-  <!-- GitHub Streak -->
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hemanthf224&theme=transparent&hide_border=true&ring=0B0B0C&fire=0B0B0C&currStreakLabel=0B0B0C" alt="Hemanth's GitHub Streak" />
 </div>
 
