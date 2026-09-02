@@ -1,8 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0B0B0C&height=250&section=header&text=Hemanth%20Reddy&fontSize=90&fontColor=F6F4EF&animation=fadeIn" alt="Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=0B0B0C&center=true&vCenter=true&width=600&height=80&lines=Hi,+I'm+Hemanth+Reddy;AI+%26+Data+Engineer;Building+Scalable+Systems" alt="Typing SVG" />
 
-  <br><br>
+  <br>
   
+  <img src="https://komarev.com/ghpvc/?username=Hemanthf224&label=Profile%20Views&color=0B0B0C&style=for-the-badge" alt="Profile Views" />
+  
+  <br><br>
   `B.Tech AI & Data Science` • `Machine Learning` • `Big Data` • `Systems Engineering`
 </div>
 
@@ -10,14 +13,37 @@
 
 ## 👋 About Me
 
-**AI & Data Engineer who builds end-to-end systems.** 
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <b>AI & Data Engineer who builds end-to-end systems.</b><br><br>
+        I am a B.Tech student in AI & Data Science at Amrita Vishwa Vidyapeetham. My work bridges the gap between theoretical machine learning and production-ready systems.<br><br>
+        I enjoy building the infrastructure that allows machine learning models to scale: real-time streaming architectures, GPU-accelerated execution engines, and low-latency REST APIs.
+      </td>
+      <td width="50%">
+        <b>🚀 Current Focus</b><br>
+        Architecting an adaptive GPU-accelerated graph processing engine in C++ and CUDA.<br><br>
+        <b>⚙️ Philosophy</b><br>
+        Scalability by default, hardware-aware execution, and data-driven architecture.
+      </td>
+    </tr>
+  </table>
+</div>
 
-I am a B.Tech student in AI & Data Science (Class of 2028) at Amrita Vishwa Vidyapeetham. My work bridges the gap between theoretical machine learning and production-ready systems, focusing on distributed data pipelines, high-performance computing, and robust API development.
+<br>
+<hr>
+<br>
 
-I enjoy building the infrastructure that allows machine learning models to scale: real-time streaming architectures, GPU-accelerated execution engines, and low-latency REST APIs.
+## 📊 GitHub Analytics
 
-**Currently:** Architecting an adaptive GPU-accelerated graph processing engine in C++ and CUDA.  
-**Focus:** Scalability by default, hardware-aware execution, and data-driven architecture.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hemanthf224&show_icons=true&theme=transparent&hide_border=true&title_color=0B0B0C&icon_color=0B0B0C&text_color=333333" alt="Hemanth's GitHub Stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hemanthf224&theme=transparent&hide_border=true&ring=0B0B0C&fire=0B0B0C&currStreakLabel=0B0B0C" alt="Hemanth's GitHub Streak" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hemanthf224&layout=compact&theme=transparent&hide_border=true&title_color=0B0B0C&text_color=333333" alt="Hemanth's Top Languages" />
+</div>
 
 <br>
 <hr>
@@ -25,26 +51,21 @@ I enjoy building the infrastructure that allows machine learning models to scale
 
 ## 🛠️ Technical Stack
 
-I specialize in data-intensive applications, comfortable dropping deep into C++ and CUDA, while also building FastAPI services and interactive data dashboards.
-
-<p>
-  <b>Languages</b> 
-  <br>
+<p align="center">
+  <b>Languages</b> <br>
   <img src="https://img.shields.io/badge/Python-0B0B0C?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C++-0B0B0C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Java-0B0B0C?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
 </p>
-<p>
-  <b>Machine Learning</b> 
-  <br>
+<p align="center">
+  <b>Machine Learning</b> <br>
   <img src="https://img.shields.io/badge/Scikit_Learn-0B0B0C?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
   <img src="https://img.shields.io/badge/Pandas-0B0B0C?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/TensorFlow-0B0B0C?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/XGBoost-0B0B0C?style=for-the-badge&logoColor=white" alt="XGBoost" />
 </p>
-<p>
-  <b>Systems & Data Infrastructure</b> 
-  <br>
+<p align="center">
+  <b>Systems & Data Infrastructure</b> <br>
   <img src="https://img.shields.io/badge/Apache_Spark-0B0B0C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Spark" />
   <img src="https://img.shields.io/badge/Apache_Kafka-0B0B0C?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka" />
   <img src="https://img.shields.io/badge/FastAPI-0B0B0C?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
@@ -78,8 +99,6 @@ I specialize in data-intensive applications, comfortable dropping deep into C++ 
 <br>
 
 ## 📬 Contact
-
-I am always open to discussing data infrastructure, applied AI, and high-performance computing opportunities.
 
 <div align="center">
   <br>
