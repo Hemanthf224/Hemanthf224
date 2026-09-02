@@ -25,7 +25,9 @@
         <b>🚀 Current Focus</b><br>
         Architecting an adaptive GPU-accelerated graph processing engine in C++ and CUDA.<br><br>
         <b>⚙️ Philosophy</b><br>
-        Scalability by default, hardware-aware execution, and data-driven architecture.
+        Scalability by default, hardware-aware execution, and data-driven architecture.<br><br>
+        <b>🌱 Currently Learning</b><br>
+        Advanced CUDA optimization and Rust for high-performance systems.
       </td>
     </tr>
   </table>
@@ -35,51 +37,71 @@
 <hr>
 <br>
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics & Contributions
+
+> *Building consistently, day by day.*
 
 <div align="center">
+  <!-- GitHub Contributions Graph (The Green Squares) -->
+  <img src="https://ghchart.rshah.org/Hemanthf224" alt="Hemanth's GitHub Contributions Graph" width="800" />
+  
+  <br><br>
+
+  <!-- GitHub Stats & Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api?username=Hemanthf224&show_icons=true&theme=transparent&hide_border=true&title_color=0B0B0C&icon_color=0B0B0C&text_color=333333" alt="Hemanth's GitHub Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hemanthf224&theme=transparent&hide_border=true&ring=0B0B0C&fire=0B0B0C&currStreakLabel=0B0B0C" alt="Hemanth's GitHub Streak" />
-  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hemanthf224&layout=compact&theme=transparent&hide_border=true&title_color=0B0B0C&text_color=333333" alt="Hemanth's Top Languages" />
+  
+  <br>
+  
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hemanthf224&theme=transparent&hide_border=true&ring=0B0B0C&fire=0B0B0C&currStreakLabel=0B0B0C" alt="Hemanth's GitHub Streak" />
 </div>
 
 <br>
 <hr>
 <br>
 
-## 🛠️ Technical Stack
+## 🛠️ Technical Stack & Arsenal
+
+I specialize in data-intensive applications. I am comfortable writing low-level systems code in C++/CUDA and building high-level APIs in Python/FastAPI.
 
 <p align="center">
-  <b>Languages</b> <br>
+  <b>Core Languages</b> <br>
   <img src="https://img.shields.io/badge/Python-0B0B0C?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C++-0B0B0C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Java-0B0B0C?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/SQL-0B0B0C?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
 </p>
 <p align="center">
-  <b>Machine Learning</b> <br>
+  <b>Machine Learning & Data Science</b> <br>
   <img src="https://img.shields.io/badge/Scikit_Learn-0B0B0C?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
   <img src="https://img.shields.io/badge/Pandas-0B0B0C?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/TensorFlow-0B0B0C?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/XGBoost-0B0B0C?style=for-the-badge&logoColor=white" alt="XGBoost" />
 </p>
 <p align="center">
-  <b>Systems & Data Infrastructure</b> <br>
+  <b>Big Data & Streaming</b> <br>
   <img src="https://img.shields.io/badge/Apache_Spark-0B0B0C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Spark" />
   <img src="https://img.shields.io/badge/Apache_Kafka-0B0B0C?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka" />
+  <img src="https://img.shields.io/badge/Hadoop-0B0B0C?style=for-the-badge&logo=apachehadoop&logoColor=white" alt="Hadoop" />
+</p>
+<p align="center">
+  <b>Backend & Infrastructure</b> <br>
   <img src="https://img.shields.io/badge/FastAPI-0B0B0C?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Docker-0B0B0C?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-0B0B0C?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/CUDA-0B0B0C?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA" />
 </p>
 
 <br>
 <hr>
 <br>
 
-## 💼 Experience
+## 💼 Professional Experience
 
 ### AI & Data Science Intern @ XYlofy AI
-> Built an end-to-end real-time fraud detection system. Handled severe class imbalance using SMOTE and evaluated LightGBM, XGBoost, and Isolation Forest. Ensured model transparency using SHAP and shipped a Streamlit risk dashboard for real-time analysis.
+> *End-to-End Real-Time Fraud Detection System* <br>
+> Handled severe class imbalance using SMOTE and evaluated LightGBM, XGBoost, and Isolation Forest. Ensured model transparency using SHAP and shipped a Streamlit risk dashboard for real-time analysis, allowing the operations team to monitor incoming transactions.
 
 <br>
 <hr>
@@ -98,7 +120,9 @@
 <hr>
 <br>
 
-## 📬 Contact
+## 📬 Let's Connect
+
+I am always open to discussing data infrastructure, applied AI, and high-performance computing opportunities. Feel free to reach out to me below!
 
 <div align="center">
   <br>
