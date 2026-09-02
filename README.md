@@ -42,8 +42,12 @@
 > *Building consistently, day by day.*
 
 <div align="center">
-  <!-- GitHub Contributions Graph (The Green Squares) -->
-  <img src="https://ghchart.rshah.org/Hemanthf224" alt="Hemanth's GitHub Contributions Graph" width="800" />
+  <!-- Interactive Snake Game Contribution Graph -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hemanthf224/Hemanthf224/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hemanthf224/Hemanthf224/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Hemanthf224/Hemanthf224/output/github-contribution-grid-snake.svg">
+  </picture>
   
   <br><br>
 
