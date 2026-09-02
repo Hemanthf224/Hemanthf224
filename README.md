@@ -8,7 +8,7 @@
   <br><br>
   `B.Tech AI & Data Science` • `Machine Learning` • `Big Data` • `Systems Engineering`
   <br><br>
-  <a href="./M%20HEMANTH%20REDDY.pdf"><img src="https://img.shields.io/badge/DOWNLOAD_RESUME-0B0B0C?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"></a>
+
 </div>
 
 <br>
@@ -44,11 +44,9 @@
 > *Building consistently, day by day.*
 
 <div align="center">
-  <!-- Interactive Snake Game Contribution Graph -->
+  <!-- Custom Interactive Builder Contribution Graph -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hemanthf224/Hemanthf224/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hemanthf224/Hemanthf224/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Hemanthf224/Hemanthf224/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution builder animation" src="./builder.svg">
   </picture>
 
   
