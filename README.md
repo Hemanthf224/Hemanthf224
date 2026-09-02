@@ -3,7 +3,7 @@
 
   <br><br>
   
-  `whoami` • `expertise` • `philosophy` • `experience` • `research` • `education` • `connect`
+  `whoami` • `expertise` • `philosophy` • `experience` • `research` • `education`
 </div>
 
 <br><br>
@@ -24,22 +24,42 @@ I build the robust infrastructure that scales them: real-time streaming architec
 <hr>
 <br>
 
-## Technical Expertise
+## 🎨 Technical Expertise
 
 I specialize in building data-intensive applications and training scalable models. I am comfortable working across the entire stack, from writing custom CUDA kernels to deploying microservices in Docker.
 
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | Python, Java, C++, JavaScript, Scala |
-| **Machine Learning** | Scikit-learn, TensorFlow, XGBoost, LightGBM, Pandas, NumPy, SHAP |
-| **Big Data & Compute** | Hadoop HDFS, Apache Spark, Kafka, CUDA, OpenMP, MPI |
-| **Infrastructure** | FastAPI, Docker, Git, Streamlit, Qiskit, Linux |
+### Core Languages
+<p>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white" alt="Scala" />
+</p>
+
+### Machine Learning & Data Science
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/XGBoost-%2328A745.svg?style=for-the-badge&logoColor=white" alt="XGBoost" />
+</p>
+
+### Big Data & Infrastructure
+<p>
+  <img src="https://img.shields.io/badge/apache%20spark-%23E25A1C.svg?style=for-the-badge&logo=apachespark&logoColor=white" alt="Spark" />
+  <img src="https://img.shields.io/badge/apache%20kafka-%23231F20.svg?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Streamlit" />
+</p>
 
 <br>
 <hr>
 <br>
 
-## Core Engineering Philosophy
+## 💡 Core Engineering Philosophy
 
 > **Data Over Intuition:** Every architectural decision should be backed by profiling, benchmarks, and data.
 >
@@ -53,7 +73,7 @@ I specialize in building data-intensive applications and training scalable model
 <hr>
 <br>
 
-## Experience
+## 💼 Experience
 
 **AI & Data Science Intern @ XYlofy AI** 
 > Built an end-to-end real-time fraud detection system to identify suspicious financial transactions using explainable AI. 
@@ -67,7 +87,7 @@ I specialize in building data-intensive applications and training scalable model
 <hr>
 <br>
 
-## Projects & Research
+## 🚀 Projects & Research
 
 My work spans distributed data processing and applied AI — the common thread is **building scalable systems that solve complex technical challenges**.
 
@@ -82,7 +102,7 @@ My work spans distributed data processing and applied AI — the common thread i
 <hr>
 <br>
 
-## Education
+## 🎓 Education
 
 **Amrita Vishwa Vidyapeetham**  
 B.Tech in Artificial Intelligence & Data Science (2024 — 2028)  
@@ -93,10 +113,14 @@ B.Tech in Artificial Intelligence & Data Science (2024 — 2028)
 <hr>
 <br>
 
-## Let's Connect
+## 📬 Let's Connect
 
 I am always open to discussing new projects, artificial intelligence research, or full-stack engineering opportunities.
 
-[**LinkedIn**](https://linkedin.com/in/hemanthreddy)  •  [**Email Me**](mailto:your.email@example.com)  •  [**Portfolio**](https://hemanthf224.github.io/hemanth-portfolio/)
-
+<div align="center">
+  <br>
+  <a href="https://linkedin.com/in/hemanthreddy"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://hemanthf224.github.io/hemanth-portfolio/"><img src="https://img.shields.io/badge/Portfolio-252F3F?style=for-the-badge&logo=mac-os&logoColor=white" alt="Portfolio"></a>
+</div>
 <br>
