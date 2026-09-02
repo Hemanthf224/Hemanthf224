@@ -18,7 +18,10 @@
 <div align="center">
   <table>
     <tr>
-      <td width="50%">
+      <td width="30%" align="center">
+        <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="200" alt="Animated Developer" />
+      </td>
+      <td width="70%">
         <b>AI & Data Engineer who builds end-to-end systems.</b><br><br>
         I am a B.Tech student in AI & Data Science at Amrita Vishwa Vidyapeetham. My work bridges the gap between theoretical machine learning and production-ready systems.<br><br>
         I enjoy building the infrastructure that allows machine learning models to scale: real-time streaming architectures, GPU-accelerated execution engines, and low-latency REST APIs.
@@ -44,8 +47,9 @@
 > *Building consistently, day by day.*
 
 <div align="center">
-  <!-- 3D Isometric Contribution Graph -->
-  <img src="https://raw.githubusercontent.com/Hemanthf224/Hemanthf224/output/profile-night-rainbow.svg" alt="Hemanth's 3D GitHub Contributions Graph" />
+  <!-- Animated 3D Isometric Contribution Graph (Building the Blocks) -->
+  <img src="https://raw.githubusercontent.com/Hemanthf224/Hemanthf224/output/profile-3d-contrib/profile-season-animate.svg" alt="Hemanth's Animated 3D GitHub Contributions Graph" />
+
   
   <br><br>
 
@@ -90,7 +94,7 @@ I specialize in data-intensive applications. I am comfortable writing low-level 
 </p>
 
 <br>
-<hr>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Divider" />
 <br>
 
 ## 💼 Professional Experience
