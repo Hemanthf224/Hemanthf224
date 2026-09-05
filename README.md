@@ -20,8 +20,7 @@
     <tr>
       <td width="100%">
         <b>AI & Data Engineer who builds end-to-end systems.</b><br><br>
-        I am a B.Tech student in AI & Data Science at Amrita Vishwa Vidyapeetham. My work bridges the gap between theoretical machine learning and production-ready systems.<br><br>
-        I enjoy building the infrastructure that allows machine learning models to scale: real-time streaming architectures, GPU-accelerated execution engines, and low-latency REST APIs.
+        I am a B.Tech student in AI & Data Science at Amrita Vishwa Vidyapeetham, where my work bridges the gap between theoretical machine learning and production-ready systems by building the infrastructure that allows machine learning models to scale—from real-time streaming architectures to GPU-accelerated execution engines and low-latency REST APIs.
       </td>
       <td width="50%">
         <b>🚀 Current Focus</b><br>
