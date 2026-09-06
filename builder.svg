@@ -383,7 +383,7 @@
         <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.00;0.95;1" dur="5s" repeatCount="indefinite"/>
     </rect>
     
-    <rect x="98" y="42" width="12" height="12" class="block-fill-1" rx="2" ry="2">
+    <rect x="98" y="42" width="12" height="12" class="block-fill-2" rx="2" ry="2">
         <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.09;0.95;1" dur="5s" repeatCount="indefinite"/>
     </rect>
     
