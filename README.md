@@ -13,7 +13,7 @@
 
 <br>
 
-## 👋 About Me
+## 👨‍💻 About Me
 
 <div align="center">
   <table>
@@ -23,11 +23,11 @@
         I am a B.Tech student in AI & Data Science at Amrita Vishwa Vidyapeetham, where my work bridges the gap between theoretical machine learning and production-ready systems by building the infrastructure that allows machine learning models to scale—from real-time streaming architectures to GPU-accelerated execution engines and low-latency REST APIs.
       </td>
       <td width="50%">
-        <b>🚀 Current Focus</b><br>
+        <b>🎯 Current Focus</b><br>
         Architecting an adaptive GPU-accelerated graph processing engine in C++ and CUDA.<br><br>
-        <b>⚙️ Philosophy</b><br>
+        <b>🧠 Philosophy</b><br>
         Scalability by default, hardware-aware execution, and data-driven architecture.<br><br>
-        <b>🌱 Currently Learning</b><br>
+        <b>📚 Currently Learning</b><br>
         Advanced CUDA optimization and Rust for high-performance systems.
       </td>
     </tr>
@@ -65,30 +65,30 @@ I specialize in data-intensive applications. I am comfortable writing low-level 
 
 <p align="center">
   <b>Core Languages</b> <br>
-  <img src="https://img.shields.io/badge/Python-0B0B0C?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C++-0B0B0C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Java-0B0B0C?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/SQL-0B0B0C?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
 </p>
 <p align="center">
   <b>Machine Learning & Data Science</b> <br>
-  <img src="https://img.shields.io/badge/Scikit_Learn-0B0B0C?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/Pandas-0B0B0C?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/TensorFlow-0B0B0C?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/XGBoost-0B0B0C?style=for-the-badge&logoColor=white" alt="XGBoost" />
 </p>
 <p align="center">
   <b>Big Data & Streaming</b> <br>
-  <img src="https://img.shields.io/badge/Apache_Spark-0B0B0C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Spark" />
-  <img src="https://img.shields.io/badge/Apache_Kafka-0B0B0C?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka" />
-  <img src="https://img.shields.io/badge/Hadoop-0B0B0C?style=for-the-badge&logo=apachehadoop&logoColor=white" alt="Hadoop" />
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Spark" />
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka" />
+  <img src="https://img.shields.io/badge/Hadoop-66CC15?style=for-the-badge&logo=apachehadoop&logoColor=white" alt="Hadoop" />
 </p>
 <p align="center">
   <b>Backend & Infrastructure</b> <br>
-  <img src="https://img.shields.io/badge/FastAPI-0B0B0C?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Docker-0B0B0C?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-0B0B0C?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/CUDA-0B0B0C?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA" />
 </p>
 
 <br>
@@ -118,7 +118,7 @@ I specialize in data-intensive applications. I am comfortable writing low-level 
 <hr>
 <br>
 
-## 📬 Let's Connect
+## 💬 Let's Connect
 
 I am always open to discussing data infrastructure, applied AI, and high-performance computing opportunities. Feel free to reach out to me below!
 

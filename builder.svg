@@ -375,10 +375,18 @@
 <rect x="714" y="56" width="12" height="12" class="block-empty" rx="2" ry="2"/>
 <rect x="714" y="70" width="12" height="12" class="block-empty" rx="2" ry="2"/>
 <rect x="714" y="84" width="12" height="12" class="block-empty" rx="2" ry="2"/>
+<rect x="728" y="0" width="12" height="12" class="block-empty" rx="2" ry="2"/>
+<rect x="728" y="14" width="12" height="12" class="block-empty" rx="2" ry="2"/>
+<rect x="728" y="28" width="12" height="12" class="block-empty" rx="2" ry="2"/>
+<rect x="728" y="42" width="12" height="12" class="block-empty" rx="2" ry="2"/>
+<rect x="728" y="56" width="12" height="12" class="block-empty" rx="2" ry="2"/>
+<rect x="728" y="70" width="12" height="12" class="block-empty" rx="2" ry="2"/>
+<rect x="728" y="84" width="12" height="12" class="block-empty" rx="2" ry="2"/>
 
         
         <!-- Animations -->
         
+<<<<<<< Updated upstream
     <rect x="98" y="28" width="12" height="12" class="block-fill-4" rx="2" ry="2">
         <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.00;0.95;1" dur="5s" repeatCount="indefinite"/>
     </rect>
@@ -417,13 +425,54 @@
     
     <rect x="728" y="70" width="12" height="12" class="block-fill-4" rx="2" ry="2">
         <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.90;0.95;1" dur="5s" repeatCount="indefinite"/>
+=======
+    <rect x="98" y="42" width="12" height="12" class="block-fill-4" rx="2" ry="2">
+        <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.00;0.95;1" dur="5s" repeatCount="indefinite"/>
+    </rect>
+    
+    <rect x="210" y="0" width="12" height="12" class="block-fill-4" rx="2" ry="2">
+        <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.11;0.95;1" dur="5s" repeatCount="indefinite"/>
+    </rect>
+    
+    <rect x="308" y="56" width="12" height="12" class="block-fill-4" rx="2" ry="2">
+        <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.22;0.95;1" dur="5s" repeatCount="indefinite"/>
+    </rect>
+    
+    <rect x="420" y="14" width="12" height="12" class="block-fill-3" rx="2" ry="2">
+        <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.33;0.95;1" dur="5s" repeatCount="indefinite"/>
+    </rect>
+    
+    <rect x="518" y="70" width="12" height="12" class="block-fill-4" rx="2" ry="2">
+        <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.44;0.95;1" dur="5s" repeatCount="indefinite"/>
+    </rect>
+    
+    <rect x="742" y="14" width="12" height="12" class="block-fill-1" rx="2" ry="2">
+        <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.56;0.95;1" dur="5s" repeatCount="indefinite"/>
+    </rect>
+    
+    <rect x="742" y="28" width="12" height="12" class="block-fill-2" rx="2" ry="2">
+        <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.67;0.95;1" dur="5s" repeatCount="indefinite"/>
+    </rect>
+    
+    <rect x="742" y="42" width="12" height="12" class="block-fill-3" rx="2" ry="2">
+        <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.78;0.95;1" dur="5s" repeatCount="indefinite"/>
+    </rect>
+    
+    <rect x="742" y="56" width="12" height="12" class="block-fill-4" rx="2" ry="2">
+        <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.89;0.95;1" dur="5s" repeatCount="indefinite"/>
+>>>>>>> Stashed changes
     </rect>
     
         
         <!-- Builder Character -->
         <rect x="0" y="0" class="builder" rx="2" ry="2">
+<<<<<<< Updated upstream
             <animate attributeName="x" values="98;196;308;406;518;728;728;728;728;728;98" dur="5s" repeatCount="indefinite" calcMode="discrete"/>
             <animate attributeName="y" values="28;84;28;70;14;0;28;42;56;70;28" dur="5s" repeatCount="indefinite" calcMode="discrete"/>
+=======
+            <animate attributeName="x" values="98;210;308;420;518;742;742;742;742;98" dur="5s" repeatCount="indefinite" calcMode="discrete"/>
+            <animate attributeName="y" values="42;0;56;14;70;14;28;42;56;42" dur="5s" repeatCount="indefinite" calcMode="discrete"/>
+>>>>>>> Stashed changes
         </rect>
     </g>
 </svg>
