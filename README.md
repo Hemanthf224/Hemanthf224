@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=0B0B0C&center=true&vCenter=true&width=600&height=80&lines=Hi,+I'm+Hemanth+Reddy;AI+%26+Data+Engineer;Building+Scalable+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=58a6ff&center=true&vCenter=true&width=600&height=80&lines=Hi,+I'm+Hemanth+Reddy;AI+%26+Data+Engineer;Building+Scalable+Systems" alt="Typing SVG" />
 
   <br>
   
-  <img src="https://komarev.com/ghpvc/?username=Hemanthf224&label=Profile%20Views&color=0B0B0C&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Hemanthf224&label=Profile%20Views&color=58a6ff&style=for-the-badge" alt="Profile Views" />
   
   <br><br>
   `B.Tech AI & Data Science` • `Machine Learning` • `Big Data` • `Systems Engineering`
@@ -52,7 +52,7 @@
   <br><br>
 
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hemanthf224&theme=transparent&hide_border=true&ring=0B0B0C&fire=0B0B0C&currStreakLabel=0B0B0C" alt="Hemanth's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hemanthf224&theme=transparent&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="Hemanth's GitHub Streak" />
 </div>
 
 <br>
