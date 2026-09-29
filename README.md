@@ -75,7 +75,7 @@ I specialize in data-intensive applications. I am comfortable writing low-level 
   <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/XGBoost-0B0B0C?style=for-the-badge&logoColor=white" alt="XGBoost" />
+  <img src="https://img.shields.io/badge/XGBoost-1481C2?style=for-the-badge&logoColor=white" alt="XGBoost" />
 </p>
 <p align="center">
   <b>Big Data & Streaming</b> <br>
@@ -124,8 +124,8 @@ I am always open to discussing data infrastructure, applied AI, and high-perform
 
 <div align="center">
   <br>
-  <a href="https://hemanthf224.github.io/hemanth-portfolio/"><img src="https://img.shields.io/badge/VIEW_PORTFOLIO-0B0B0C?style=for-the-badge&logo=mac-os&logoColor=white" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/hemanth-reddy-9517b0340/"><img src="https://img.shields.io/badge/LINKEDIN-0B0B0C?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:hemanthreddy48823@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0B0B0C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://hemanthf224.github.io/hemanth-portfolio/"><img src="https://img.shields.io/badge/VIEW_PORTFOLIO-58a6ff?style=for-the-badge&logo=mac-os&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/hemanth-reddy-9517b0340/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:hemanthreddy48823@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </div>
 <br>
