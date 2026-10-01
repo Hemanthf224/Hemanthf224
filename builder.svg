@@ -414,31 +414,31 @@
         <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.50;0.95;1" dur="5s" repeatCount="indefinite"/>
     </rect>
     
-    <rect x="728" y="0" width="12" height="12" class="block-fill-1" rx="2" ry="2">
+    <rect x="728" y="14" width="12" height="12" class="block-fill-1" rx="2" ry="2">
         <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.58;0.95;1" dur="5s" repeatCount="indefinite"/>
     </rect>
     
-    <rect x="728" y="70" width="12" height="12" class="block-fill-1" rx="2" ry="2">
+    <rect x="728" y="84" width="12" height="12" class="block-fill-1" rx="2" ry="2">
         <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.67;0.95;1" dur="5s" repeatCount="indefinite"/>
     </rect>
     
-    <rect x="728" y="84" width="12" height="12" class="block-fill-2" rx="2" ry="2">
+    <rect x="742" y="0" width="12" height="12" class="block-fill-2" rx="2" ry="2">
         <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.75;0.95;1" dur="5s" repeatCount="indefinite"/>
     </rect>
     
-    <rect x="742" y="0" width="12" height="12" class="block-fill-3" rx="2" ry="2">
+    <rect x="742" y="14" width="12" height="12" class="block-fill-3" rx="2" ry="2">
         <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.83;0.95;1" dur="5s" repeatCount="indefinite"/>
     </rect>
     
-    <rect x="742" y="14" width="12" height="12" class="block-fill-4" rx="2" ry="2">
+    <rect x="742" y="28" width="12" height="12" class="block-fill-4" rx="2" ry="2">
         <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.92;0.95;1" dur="5s" repeatCount="indefinite"/>
     </rect>
     
         
         <!-- Builder Character -->
         <rect x="0" y="0" class="builder" rx="2" ry="2">
-            <animate attributeName="x" values="84;98;196;308;308;406;518;728;728;728;742;742;84" dur="5s" repeatCount="indefinite" calcMode="discrete"/>
-            <animate attributeName="y" values="84;0;42;0;56;56;14;0;70;84;0;14;84" dur="5s" repeatCount="indefinite" calcMode="discrete"/>
+            <animate attributeName="x" values="84;98;196;308;308;406;518;728;728;742;742;742;84" dur="5s" repeatCount="indefinite" calcMode="discrete"/>
+            <animate attributeName="y" values="84;0;42;0;56;56;14;14;84;0;14;28;84" dur="5s" repeatCount="indefinite" calcMode="discrete"/>
         </rect>
     </g>
 </svg>
