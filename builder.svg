@@ -430,19 +430,19 @@
         <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.67;0.95;1" dur="5s" repeatCount="indefinite"/>
     </rect>
     
-    <rect x="742" y="0" width="12" height="12" class="block-fill-1" rx="2" ry="2">
+    <rect x="742" y="14" width="12" height="12" class="block-fill-1" rx="2" ry="2">
         <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.73;0.95;1" dur="5s" repeatCount="indefinite"/>
     </rect>
     
-    <rect x="742" y="14" width="12" height="12" class="block-fill-2" rx="2" ry="2">
+    <rect x="742" y="28" width="12" height="12" class="block-fill-2" rx="2" ry="2">
         <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.80;0.95;1" dur="5s" repeatCount="indefinite"/>
     </rect>
     
-    <rect x="742" y="28" width="12" height="12" class="block-fill-3" rx="2" ry="2">
+    <rect x="742" y="42" width="12" height="12" class="block-fill-3" rx="2" ry="2">
         <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.87;0.95;1" dur="5s" repeatCount="indefinite"/>
     </rect>
     
-    <rect x="742" y="42" width="12" height="12" class="block-fill-4" rx="2" ry="2">
+    <rect x="742" y="56" width="12" height="12" class="block-fill-4" rx="2" ry="2">
         <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.93;0.95;1" dur="5s" repeatCount="indefinite"/>
     </rect>
     
@@ -450,7 +450,7 @@
         <!-- Builder Character -->
         <rect x="0" y="0" class="builder" rx="2" ry="2">
             <animate attributeName="x" values="84;84;98;98;196;210;294;308;406;504;714;742;742;742;742;84" dur="5s" repeatCount="indefinite" calcMode="discrete"/>
-            <animate attributeName="y" values="42;56;14;28;0;0;56;14;14;70;84;0;14;28;42;42" dur="5s" repeatCount="indefinite" calcMode="discrete"/>
+            <animate attributeName="y" values="42;56;14;28;0;0;56;14;14;70;84;14;28;42;56;42" dur="5s" repeatCount="indefinite" calcMode="discrete"/>
         </rect>
     </g>
 </svg>
